@@ -1,11 +1,11 @@
-gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+gc1 = 'https://chat.whatsapp.com/LhpFRMqsKkn6nrCCf1He9R'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
-global.owner = ['6282221792667','6282320830684'] // Put your number here //owner eval
-global.kontak = ['6282221792667','6282320830684'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/LhpFRMqsKkn6nrCCf1He9R'] // ganti jadi group lu
+global.owner = ['','6282311619167'] // Put your number here //owner eval
+global.kontak = ['6285707101183','6282311619167'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6282221792667','6282320830684'] // Premium user has unlimited limit
+global.prems = ['6285707101183','6282311619167'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -38,23 +38,23 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'cristian9407'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = 'damarjati_25'
+namagithub = 'DAMARJATI_88'
 kasihcaption = `Done`
-namakontak1 = 'Owner Tio'
-namakontak2 = 'Nomor Bot'
+namakontak1 = 'm4r'
+namakontak2 = 'radhinMods'
 
 //kasihcaption = `Done`
 
 // Sticker WM
-global.packname = 'BOTCAHX' // ganti aja
-global.author = 'BOTCAHX' // ganti aja
+global.packname = 'm4r' // ganti aja
+global.author = 'm4r' // ganti aja
 
 //yyy
-bc = '' //BOTCAHX BROADCAST
-footer = '\n© BOTCAHX'
-namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
-namalu = 'Tio'
+bc = '' //m4rBot BROADCAST
+footer = '\n© m4r'
+namabot = 'm4rBot'
+namalu = 'm4r'
 
 
 // 
